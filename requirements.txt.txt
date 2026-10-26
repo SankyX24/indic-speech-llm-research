@@ -1,0 +1,15 @@
+
+torch
+transformers==4.46.3
+tokenizers>=0.20,<0.21
+huggingface-hub<1.0
+accelerate
+datasets<4
+numpy
+pandas
+soundfile
+noisereduce
+jiwer
+faster-whisper
+jupyterlab
+ipykernel
