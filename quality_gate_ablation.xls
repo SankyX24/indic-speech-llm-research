@@ -1,0 +1,5 @@
+configuration,flagged_samples,normal_responses,clarification_rate
+Baseline (no gate),0,100,0.0
+Repetition only,8,92,0.08
+Lexical diversity only,8,92,0.08
+Combined gate,8,92,0.08
